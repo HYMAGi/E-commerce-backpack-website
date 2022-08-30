@@ -1,0 +1,15 @@
+Main Changes:
+Footer and Header, Icons for these are also changed (in Images folder)
+Css file can just be copy and pasted for:
+	main.css
+	cart.css
+	product.css
+	about.css
+	FrontPage.css
+
+For the HTML files, copy and paste:
+	main.html (header, promo and footer)
+	cart.html (header and footer)
+	all the products (header and footer)
+	about.html (copy and paste everything)
+	FrontPage.html (footer)
